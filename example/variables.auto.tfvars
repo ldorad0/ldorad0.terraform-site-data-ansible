@@ -1,0 +1,1 @@
+inventory_file_path = "inventory.yaml"
