@@ -4,6 +4,8 @@ This is a Terraform module that allows for sharing data between ansible and Terr
 
 With this handy approach, you can make ansible the source of truth for all site data.
 
+**Note**: I tested this approach on Ubuntu. It did not work from OSX Sequoia.
+
 # Under the hood
 
 The module accomplishes this like so:
